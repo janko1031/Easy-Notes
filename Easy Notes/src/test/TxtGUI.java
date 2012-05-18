@@ -1,7 +1,7 @@
 package test;
 
 import java.awt.*;
-//test
+
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
@@ -14,7 +14,7 @@ import java.awt.print.PrinterJob;
 public class TxtGUI extends JFrame {
 
 	private JPanel contentPane;
-//test respmnse
+
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
