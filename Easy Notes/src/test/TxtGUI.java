@@ -14,7 +14,7 @@ import java.awt.print.PrinterJob;
 public class TxtGUI extends JFrame {
 
 	private JPanel contentPane;
-//test
+//test respmnse
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
