@@ -6,7 +6,7 @@ import javax.swing.JTextArea;
 
 public class Tekst extends TxtGUI {
 	public String ucitaj() {
-	// testing
+	
 
 		try {
 			BufferedReader in = new BufferedReader(new FileReader("tekst.txt"));
